@@ -1,6 +1,6 @@
 id = "melange"
 name = "Melange Theme"
-version = "0.0.3"
+version = "0.0.4"
 schema_version = 1
 authors = ["adorabilis"]
 description = "A warm and cozy theme for Zed with dark and light variants"

@@ -75,8 +75,8 @@
         "deleted": "#d47766",
         "deleted.background": "#3e2626",
         "error": "#d47766",
-        "error.background": "#2e2a27",
-        "error.border": "#86746266",
+        "error.background": "#3b1710",
+        "error.border": "#bd818366",
         "hidden": "#c1a78e",
         "hint": "#c1a78e",
         "hint.background": "#2e2a27",
@@ -88,8 +88,8 @@
         "modified": "#efab36",
         "predictive": "#837464",
         "warning": "#ebc06d",
-        "warning.background": "#2e2a27",
-        "warning.border": "#86746266",
+        "warning.background": "#422f09",
+        "warning.border": "#e49b5d4d",
         "players": [
           {
             "background": "#eae1d8",
@@ -301,8 +301,8 @@
         "deleted": "#bf0021",
         "deleted.background": "#f1dedf",
         "error": "#bf0021",
-        "error.background": "#ede9e6",
-        "error.border": "#a98a7866",
+        "error.background": "#f1dedf",
+        "error.border": "#c77b8b66",
         "hidden": "#7d6658",
         "hint": "#7d6658",
         "hint.background": "#ede9e6",
@@ -314,8 +314,8 @@
         "modified": "#efab36",
         "predictive": "#a48b7a",
         "warning": "#a06d00",
-        "warning.background": "#ede9e6",
-        "warning.border": "#a98a7866",
+        "warning.background": "#f2e8dd",
+        "warning.border": "#cca47866",
         "players": [
           {
             "background": "#51433b",
