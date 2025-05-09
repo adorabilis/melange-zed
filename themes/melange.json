@@ -75,8 +75,8 @@
         "deleted": "#d47766",
         "deleted.background": "#3e2626",
         "error": "#d47766",
-        "error.background": "#3b1710",
-        "error.border": "#bd818366",
+        "error.background": "#3a2525",
+        "error.border": "#d4776633",
         "hidden": "#c1a78e",
         "hint": "#c1a78e",
         "hint.background": "#2e2a27",
@@ -88,8 +88,8 @@
         "modified": "#efab36",
         "predictive": "#837464",
         "warning": "#ebc06d",
-        "warning.background": "#422f09",
-        "warning.border": "#e49b5d4d",
+        "warning.background": "#3a2801",
+        "warning.border": "#ebc06d33",
         "players": [
           {
             "background": "#eae1d8",
