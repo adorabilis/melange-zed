@@ -86,7 +86,7 @@
         "info.background": "#282b31",
         "info.border": "#86746266",
         "modified": "#efab36",
-        "predictive": "#837464",
+        "predictive": "#6a5c4c",
         "warning": "#ebc06d",
         "warning.background": "#3a2801",
         "warning.border": "#ebc06d33",
@@ -312,7 +312,7 @@
         "info.background": "#e0e2e8",
         "info.border": "#a98a7866",
         "modified": "#efab36",
-        "predictive": "#a48b7a",
+        "predictive": "#c3a998",
         "warning": "#a06d00",
         "warning.background": "#f2e8dd",
         "warning.border": "#cca47866",
@@ -361,10 +361,10 @@
             "color": "#6e9b72"
           },
           "comment": {
-            "color": "#7d6658"
+            "color": "#9d8576"
           },
           "comment.doc": {
-            "color": "#7d6658"
+            "color": "#9d8576"
           },
           "constant": {
             "color": "#be79bb"
